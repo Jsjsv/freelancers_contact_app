@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FreelancerContact-BackendAPI.props" />
+</Project>

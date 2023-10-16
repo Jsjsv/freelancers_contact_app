@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FreelancerContact-BackendAPI.props" />
+</Project>
