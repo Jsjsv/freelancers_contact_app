@@ -1,7 +1,7 @@
 # Freelancer-contact-app 
 This is a demo project for freelancer contact app. The project consists of two part frontend web interface and backend web API. 
 ## Installation instructions:
-Step 1: Create a folder in the directory of your choice. Open CMD, in the directory of the folder type git clone 
+Step 1: Create a folder in the directory of your choice. Open CMD, in the directory of the folder type "git clone https://github.com/Jsjsv/freelancers_contact_app.git"
 
 Step 2: Execute the sql query using Microsoft SQL Management Studio. This will create database of this project locally on your device.
 
